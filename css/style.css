@@ -42,7 +42,7 @@ a{
 }
 .top-cloud{
   position: absolute;
-  right: 200px;
+  right: 100px;
   top: 40px;
 
 }
@@ -51,7 +51,7 @@ a{
 }
 .bottom-cloud{
   position: absolute;
-  left: 400px;
+  left: 100px;
 }
 .my-skills{
   border-radius:100%;
